@@ -75,6 +75,27 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Case-control study</title>
+      <link>/2017/03/07/case-control-study/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/03/07/case-control-study/</guid>
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
+&lt;div id=&#34;hello-world&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;まずは R, RStudio, Git, をすべてインストールして，&lt;/p&gt;
+&lt;p&gt;Github より， blogdownパッケージをインストールする ： devtools::install_github(‘rstudio/blogdown’)&lt;/p&gt;
+&lt;p&gt;Hugoを一行でインストールする： blogdown::install_hugo()&lt;/p&gt;
+&lt;p&gt;空白のディレクトリ（フォルダ）にてウェブサイトを一行で作成する： blogdown::new_site()&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Plain Markdown Post</title>
       <link>/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>

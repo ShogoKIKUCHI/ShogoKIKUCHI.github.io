@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Epidemiology on Lithium Theme</title>
+    <link>/tags/epidemiology/index.xml</link>
+    <description>Recent content in Epidemiology on Lithium Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/epidemiology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Case-control study</title>
+      <link>/2017/03/07/case-control-study/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/03/07/case-control-study/</guid>
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
+&lt;div id=&#34;hello-world&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;まずは R, RStudio, Git, をすべてインストールして，&lt;/p&gt;
+&lt;p&gt;Github より， blogdownパッケージをインストールする ： devtools::install_github(‘rstudio/blogdown’)&lt;/p&gt;
+&lt;p&gt;Hugoを一行でインストールする： blogdown::install_hugo()&lt;/p&gt;
+&lt;p&gt;空白のディレクトリ（フォルダ）にてウェブサイトを一行で作成する： blogdown::new_site()&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
