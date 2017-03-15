@@ -6,8 +6,24 @@
     <description>Recent content on Kikuchi Shogo Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>中学生ピロリ菌検診</title>
+      <link>/2017/03/15/middleschool/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/03/15/middleschool/</guid>
+      <description>&lt;p&gt;まずは R, RStudio, Git, をすべてインストールして，&lt;/p&gt;
+
+&lt;p&gt;Github より， blogdownパッケージをインストールする ： devtools::install_github(‘rstudio/blogdown’)&lt;/p&gt;
+
+&lt;p&gt;Hugoを一行でインストールする： blogdown::install_hugo()&lt;/p&gt;
+
+&lt;p&gt;空白のディレクトリ（フォルダ）にてウェブサイトを一行で作成する： blogdown::new_site()&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Aichi Medical University</title>
