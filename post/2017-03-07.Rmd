@@ -1,0 +1,24 @@
+---
+title: "Case-control study"
+author: "Lin Yingsong"
+date: "2017-03-07"
+output: html_document
+tags: ["epidemiology"]
+---
+
+
+#Hello World!
+
+まずは R, RStudio, Git, をすべてインストールして，
+
+Github より， blogdownパッケージをインストールする ：
+devtools::install_github('rstudio/blogdown')
+
+
+Hugoを一行でインストールする：
+blogdown::install_hugo()
+
+
+空白のディレクトリ（フォルダ）にてウェブサイトを一行で作成する：
+blogdown::new_site()
+
