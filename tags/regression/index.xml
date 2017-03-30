@@ -1,51 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Regression on Kikuchi Shogo Homepage</title>
+    <title>Regression on A Hugo website</title>
     <link>/tags/regression/index.xml</link>
-    <description>Recent content in Regression on Kikuchi Shogo Homepage</description>
+    <description>Recent content in Regression on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>en-us</language>
     <atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Aichi Medical University</title>
-      <link>/2017/03/07/aichi-medical-university/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <title>Hello R Markdown</title>
+      <link>/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/2017/03/07/aichi-medical-university/</guid>
-      <description>&lt;div id=&#34;file-1&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;file 1&lt;/h1&gt;
-&lt;div id=&#34;file-2&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;file 2&lt;/h2&gt;
-&lt;div id=&#34;file-3&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;file 3&lt;/h3&gt;
-&lt;div id=&#34;file-4&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;file 4&lt;/h4&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;a&lt;/li&gt;
-&lt;li&gt;b&lt;/li&gt;
-&lt;li&gt;fafdaf&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+      <guid>/2015/07/23/hello-r-markdown/</guid>
+      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##      speed           dist       
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
 ##  Min.   : 4.0   Min.   :  2.00  
 ##  1st Qu.:12.0   1st Qu.: 26.00  
 ##  Median :15.0   Median : 36.00  
 ##  Mean   :15.4   Mean   : 42.98  
 ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## 
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
 ## Call:
 ## lm(formula = dist ~ speed, data = cars)
 ## 
